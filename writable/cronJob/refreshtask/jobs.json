@@ -1,0 +1,26 @@
+[
+    {
+        "name": "refreshtask",
+        "type": "command",
+        "action": "refresh --all",
+        "environment": null,
+        "start_at": "2024-01-17 18:04:52",
+        "end_at": "2024-01-17 18:04:52",
+        "duration": "00:00:00",
+        "output": null,
+        "error": null,
+        "test_time": null
+    },
+    {
+        "name": "refreshtask",
+        "type": "command",
+        "action": "demo:refresh --all",
+        "environment": null,
+        "start_at": "2024-01-17 18:04:32",
+        "end_at": "2024-01-17 18:04:33",
+        "duration": "00:00:00",
+        "output": null,
+        "error": null,
+        "test_time": null
+    }
+]
